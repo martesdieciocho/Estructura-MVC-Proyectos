@@ -6,15 +6,6 @@
 -Se debe crear carpeta de controllers y sus archivos dependiento de las rutas que haya.
 -Crear archivo de .gitignore para omitir que se suba a repositorio el node_modules y el package-lock.json
 -Agregar proyecto a repositorio de GitHub:
-    -Crear repositorio en GitHub mediante comandos en el GitBash: git config user.name "martesdieciocho"
-                                                                  git config user.email "alejo.9418@hotmail.com
-                                                                  echo "nombreProyecto" >> README.md
-                                                                  git init
-                                                                  git add README.md
-                                                                  git commit -m "first commit"
-                                                                  git branch -M main
-                                                                  git remote add origin insertarLinkDeRepositorio
-                                                                  git push -u origin main
     -Crear repositorio desde GitHub web y añadir el proyecto mediante comandos de GitBash: git init
                                                                                            git add .
                                                                                            git commit -m "comienzo del proyecto"
