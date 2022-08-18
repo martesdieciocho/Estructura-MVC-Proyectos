@@ -2,6 +2,7 @@
 -Creación de carpeta con express generator ejecutando GitBash desde la carpeta contedenora del proyecto: express nombreProyecto --ejs
 -Abrir el VS.
 -Abrir terminal e instalar los módulos de node: npm install
+-Instalar modulos de node: npm install express
 -Instalar nodemon: npm install nodemon -g
 -Para correr la app con nodemon: nodemon bin/www
 -Se debe crear carpeta de controllers y sus archivos dependiento de las rutas que haya.
